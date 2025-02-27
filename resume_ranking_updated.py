@@ -39,7 +39,7 @@ def set_bg():
     page_bg_img = '''
     <style>
     .stApp {
-        background: url("https://static.vecteezy.com/system/resources/thumbnails/017/188/879/small/geometric-dark-background-with-gradient-shapes-composition-good-for-posters-design-illustration-vector.jpg") no-repeat center fixed;
+        background: url("https://images.deepai.org/machine-learning-models/e29355e098db45809727dadc318c169c/solar.jpg") no-repeat center fixed;
         background-size: cover;
     }
     </style>
